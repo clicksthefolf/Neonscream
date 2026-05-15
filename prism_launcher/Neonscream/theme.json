@@ -1,0 +1,21 @@
+{
+	"colors": {
+		"AlternateBase": "#31363b",
+		"Base": "#0A171D",
+		"BrightText": "#C51A73",
+		"Button": "#1E7589",
+		"ButtonText": "#ffffff",
+		"Highlight": "#C51A73",
+		"HighlightedText": "#000000",
+		"Link": "#C51A73",
+		"Text": "#ffffff",
+		"ToolTipBase": "#ffffff",
+		"ToolTipText": "#ffffff",
+		"Window": "#0F2736",
+		"WindowText": "#ffffff",
+		"fadeAmount": 0.5,
+		"fadeColor": "#31363b"
+	},
+	"name": "Neonscream",
+	"widgets": "Fusion"
+}
